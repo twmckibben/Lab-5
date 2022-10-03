@@ -1,5 +1,7 @@
 #! /bin/sh
 
+#Taylor was here, checking push function
+
 #initialize variable
 reverse=""
 
