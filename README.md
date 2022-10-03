@@ -45,7 +45,7 @@ Github for Lab Assignment 5 (Week 7 - Version Control)
     
 3. Use the url for the repository and `git clone` to set up a remote connection to your newly forked repository locally (or on ASC) at the command line.
 
-![Getting your Repository URL](/images/clonerepo.png)
+![Getting your Repository URL](/images/urlrepo.png)
 
 
 ## Collaborative Coding
