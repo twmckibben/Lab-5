@@ -47,6 +47,8 @@ Github for Lab Assignment 5 (Week 7 - Version Control)
 
 ![Getting your Repository URL](/images/urlrepo.png)
 
+Look at these [slides](https://adc0032.github.io/VersionControl/#/section-3) for help in configuring your account for accessing this private repository via the command line.
+
 
 ## Collaborative Coding
 
