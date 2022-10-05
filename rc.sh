@@ -3,34 +3,41 @@
 #Taylor was here, checking push function
 
 #initialize variable
-reverse=""
+#reverse=""
+
+#reverse and then complement the sequence and store in variable rc
+rc=`echo sequence | rev |tr 'ATGC' 'TACG'`
+
+#print output name and sequence to file
+echo "$name" >$1.rc.out
+echo "$rc" >$1.rc.out
 
 #read in data
-name=`grep ">" $1`
-sequence=`grep -v ">" $1`
+#name=`grep ">" $1`
+#sequence=`grep -v ">" $1`
 
-echo "Name: $name"
+#echo "Name: $name"
 
 #calculate length of sequence
-len=${#sequence}
+#len=${#sequence}
 
-echo "Length: $len"
+#echo "Length: $len"
 
 #loop through sequence in reverse
-for (( i=$len; i>=0; i-- ))
-do
-    reverse="$reverse${sequence:$i:1}"
-done
+#for (( i=$len; i>=0; i-- ))
+#do
+#   reverse="$reverse${sequence:$i:1}"
+#done
 
-echo "$sequence
-$reverse
-"
+#echo "$sequence
+#$reverse
+#"
 
 #complement sequence
-rc=`echo $reverse | tr 'atcg' 'tagc'`
+#rc=`echo $reverse | tr 'atcg' 'tagc'`
 
-echo "$rc
-"
+#echo "$rc
+#"
 
-echo $name >$1.rc.txt
-echo $rc >>$1.rc.txt
+#echo $name >$1.rc.txt
+#echo $rc >>$1.rc.txt
