@@ -1,7 +1,7 @@
 #! /bin/sh
 
 #Taylor was here, checking push function
-
+#Omar is the coolest. 
 #initialize variable
 reverse=""
 
