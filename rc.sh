@@ -1,7 +1,17 @@
 #! /bin/sh
 
 #Taylor was here, checking push function
-
+<<<<<<< HEAD
+#Omar is the coolest. 
+=======
+<<<<<<< HEAD
+#Ravneet was here too
+#Checking
+#testOmar 
+=======
+#I'm on top of the world!
+>>>>>>> 9fe5ac325ed4d49959741f591b8c41941de3d46f
+>>>>>>> 16ce91dc1e9dba97bc712867d8c851efd6b583b8
 #initialize variable
 #reverse=""
 
