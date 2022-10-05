@@ -1,5 +1,6 @@
 #! /bin/sh
-
+#I don't know what I'm doing here!
+#Shut up, Omar! I am joking!
 #Taylor was here, checking push function
 <<<<<<< HEAD
 #Omar is the coolest. 
