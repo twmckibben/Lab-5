@@ -1,0 +1,7 @@
+Until now I have been managing my publishable data with the help of a statistician and she did told me how to make a reproducible script and how to make 
+my script publishable. But I think as until now I had not done this on my own so I am learning how to make my codes and research in general reproducible 
+through the courses I am taking this first semester of my PhD. 
+I will try my best to make my work to be able to stand the reproducibility test. 
+I think non reproducible research can result in wastage of someone’s time who might trust and try to use the technique for their research. It may also 
+result in the loss of money, material and data.
+

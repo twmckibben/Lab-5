@@ -1,0 +1,22 @@
+
+Lab 5 Reflection Questions:
+
+Reflect on how you currently manage your documents and code, particularly content associated
+ with publishable work. Would it stand up to a reproducibility test?
+ How do you think non-reproducibile research affects computational biology and
+ bioinformatics? What about in your specific field of study?
+
+Answer:
+Quite honestly, it probably wouldn't stand up to a reproducibility test -- I have
+folders with random names, files that are important with names that don't really 
+suggest so, etc.
+Non-reproducible research is drastically holding back the field of computational 
+biology and bioinformatics. Reproducbility is at the core of research in general,
+so in a way, having non-reproducible code is like having non-reproducible methods,
+meaning non-reproducible code reduces the merit and credibility of the research.
+Within my specific field of study, non-reproducible research is very bad, to be blunt.
+Since so many concepts and new information is built off of previous information and 
+findings, then the methods and analyses MUST be reproducible in order to move forward
+in the field.
+
+Hannah Walton 

@@ -1,0 +1,10 @@
+#These are my reflection questions for Lab 5
+
+1. I am working on it, but no it wouldn't. My lab documents are largely pap>
+        I am working on the coded sections of my work to make it more repro>
+
+2. Non-reproducible work in the computational fields is harmful as it inhib>
+        It also makes incorporating your data into other analyses more diff>
+
+3. Even in microbiomics and functional genomics, data analysis is too large>
+
