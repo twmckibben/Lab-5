@@ -1,9 +1,10 @@
 #These are my reflection questions for Lab 5
 
-1. I am working on it, but no it wouldn't. My lab documents are largely paper based and only uploaded as images.
-	I am working on the coded sections of my work to make it more reproducible. It takes a long time and debugging code makes me sad.
+1. I am working on it, but no it wouldn't. My lab documents are largely pap>
+        I am working on the coded sections of my work to make it more repro>
 
-2. Non-reproducible work in the computational fields is harmful as it inhibits the ability for others to try your work and validate it.
-	It also makes incorporating your data into other analyses more difficult and reduces the scope of your contributions.
+2. Non-reproducible work in the computational fields is harmful as it inhib>
+        It also makes incorporating your data into other analyses more diff>
 
-3. Even in microbiomics and functional genomics, data analysis is too large and multi-faceted to be done by hand. When data analysis is done almost solely by computer, those analyses need to be documented and repeatable.
+3. Even in microbiomics and functional genomics, data analysis is too large>
+
