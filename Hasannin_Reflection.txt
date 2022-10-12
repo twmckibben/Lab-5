@@ -1,0 +1,16 @@
+Reflect on how you currently manage your documents and code, particularly content associated with publishable work. Would it stand up to a reproducibility test? How do you think non-reproducibile research affects computational biology and bioinformatics? What about in your specific field of study
+
+Well, right now I care more about adding comments and mark each and every line of code, so;
+first, within the script itself I intend to add comments to make it easier for my self to either edit the script or to proceed to add 
+new command lines to it. And also to make it easier to any one who wants to use my script later on in the future. 
+
+Second, readme files and markdown I figured out that they are crucial for me to understand the script better (when I explain it in the markdown I understand it better) 
+so readme file is one of the important documents to include as well and again to ensure that my script is easily reproducible and can be used by other researchers in my field. 
+
+non-reproducibility affect the research in general, I ran ceratin script that only me who knows how to get it to work it means that that my work isn't good enough 
+because I didn't make any contribution. 
+
+I struggle with non-reproducible resarches a lot, many experiments in the literture 
+as when I attempt to re-do the experiment once again I am not getting the same results because there a lot of controlled and uncontrolled varibales within the experiment. 
+
+
